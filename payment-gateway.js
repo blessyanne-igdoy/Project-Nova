@@ -1,4 +1,4 @@
-const PAYMENT_API_URL = "https://your-payment-api-url-here";
+// TODO: add payment API URL once confirmed
 
 function processPayment(amount) {
   console.log("Processing payment of " + amount);
