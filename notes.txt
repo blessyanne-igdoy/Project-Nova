@@ -1,4 +1,3 @@
-Project Nova - Notes
-- Auth service logic is in auth-service.js.
-- Payment gateway module is in payment-gateway.js.
-- config.js holds the API version.
+authentication notes
+- auth-service.js contains the initial auth service logic.
+- The auth service is the starting point for the login and authentication flow.
