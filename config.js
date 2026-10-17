@@ -1,1 +1,1 @@
-const apiVersion = 'v1';
+const apiVersion = 'v2';
